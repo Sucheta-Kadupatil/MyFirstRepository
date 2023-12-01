@@ -1,4 +1,4 @@
 # MyFirstRepository
 This is my first Git Repository
 <br>
-Author - Sucheta Kadupatil
+Author - Sucheta Kadupatil (SK)
